@@ -1,7 +1,7 @@
 # Universidad del Valle de Guatemala
 # Cifrado de información
 # Grupo 7
-# Implementación 2 AES
+# Implementación 1 AES
 
 from Crypto.Cipher import AES
 
